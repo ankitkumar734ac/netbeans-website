@@ -337,3 +337,5 @@ When the  ``AnagramGame-1.0.exe``  and  ``BrickBreaker-1.0.msi``  installers are
 2. Double-click to run the installer.
 
 Both the applications should be installed into the  ``C:\Users\<username>\AppData\Local\``  directory and be available in the Start menu.
+
+== How to Generate Native Packaging for Maven with JavaFX Project in NetBeans IDE
